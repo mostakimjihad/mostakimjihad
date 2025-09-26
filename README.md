@@ -18,10 +18,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📬 Let’s Connect
-📧 **mostakimjihad652001@gmail.com**  
-📞 **+880 1870 460323**  
-🔗 [LinkedIn](https://www.linkedin.com/)
