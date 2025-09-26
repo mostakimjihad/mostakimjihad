@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="left">
+  <a href="https://github.com/ellerbrock/open-source-badge/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Source-Love-orange?style=for-the-badge" alt="Open Source Advocate">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mostakimjihad&style=for-the-badge&color=orange" alt="Profile Visitors">
+</p>
 
-<!--
-**mostakimjihad/mostakimjihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table style="width:100%; table-layout:fixed; border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td style="width: 40%; text-align: center; vertical-align: middle; padding: 0;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width: 120px; height: auto;">
+    </td>
+    <td style="width: 60%; vertical-align: middle; padding: 0;">
+      <ul>
+        <li>👨‍💻 <b>Backend Developer</b> (Python, Odoo, Django)</li>
+        <li>📚 <b>Research:</b> Digital Twin, LLM, Computer Vision, Vehicular & Mobile Edge Computing</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let’s Connect
+📧 **mostakimjihad652001@gmail.com**  
+📞 **+880 1870 460323**  
+🔗 [LinkedIn](https://www.linkedin.com/)
